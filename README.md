@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ayush12313065/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush12313065/Leetcode/tree/master/0342-power-of-four) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayush12313065/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
