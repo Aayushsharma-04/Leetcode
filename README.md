@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ayush12313065/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayush12313065/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Ayush12313065/Leetcode/tree/master/0029-divide-two-integers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush12313065/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush12313065/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush12313065/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Ayush12313065/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ayush12313065/Leetcode/tree/master/0326-power-of-three) |
