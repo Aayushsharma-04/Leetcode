@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush12313065/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush12313065/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ayush12313065/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush12313065/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayush12313065/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ayush12313065/Leetcode/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -102,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush12313065/Leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush12313065/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Ayush12313065/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ayush12313065/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush12313065/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
