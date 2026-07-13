@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ayush12313065/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1331-rank-transform-of-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush12313065/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush12313065/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12313065/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ayush12313065/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1331-rank-transform-of-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush12313065/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
