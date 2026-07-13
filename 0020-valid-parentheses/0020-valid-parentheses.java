@@ -37,14 +37,5 @@ public class Solution {
         }
         return ans; 
     }
-
-    public static void main(String[] args) {
-        String sentence = "({[]})";
-        Solution solution = new Solution(); 
-        if (solution.isValid(sentence)) {
-            System.out.print("Valid");
-        } else {
-            System.out.print("Non Valid");
-        }
-    }
 }
+    
