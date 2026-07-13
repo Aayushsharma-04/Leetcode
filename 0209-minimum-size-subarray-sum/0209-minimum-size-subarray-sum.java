@@ -7,7 +7,7 @@ class Solution {
             sum+= nums[j];
 
             while(sum >= target){
-                minlen = Math.min(minlen,j-i +1);
+                minlen = Math.min(minlen,j-i + 1);
                 sum -= nums[i];
                 i++;
                
