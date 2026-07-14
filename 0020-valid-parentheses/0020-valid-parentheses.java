@@ -2,40 +2,26 @@ import java.util.Stack;
 
 public class Solution {
     public boolean isValid(String s) {
+        Stack<Character> st = new Stack<>();
         int n = s.length();
-        Stack<Character> st = new Stack();
-        boolean ans = true;
         for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
-            if (ch == '(' || ch == '{' || ch == '[') {
+            if (ch == '(' || ch == '[' || ch == '{') {
                 st.push(ch);
-            } else if (ch == ')') {
-                if (!st.empty() && st.peek() == '(') {
-                    st.pop();
-                } else {
-                    ans = false;
-                    break;
+            } else if (ch == ')' || ch == ']' || ch == '}') {
+                if (st.isEmpty()) {
+                    return false;
                 }
-            } else if (ch == '}') {
-                if (!st.empty() && st.peek() == '{') {
+                char top = st.peek();
+                if ((ch == ')' && top == '(') || (ch == ']' && top == '[')
+                        || (ch == '}' && top == '{')) {
                     st.pop();
                 } else {
-                    ans = false;
-                    break;
-                }
-            } else if (ch == ']') {
-                if (!st.empty() && st.peek() == '[') {
-                    st.pop();
-                } else {
-                    ans = false;
-                    break;
+                    return false;
                 }
             }
+
         }
-        if (!st.empty()) {
-            return false;
-        }
-        return ans; 
+        return st.isEmpty();
     }
 }
-    
