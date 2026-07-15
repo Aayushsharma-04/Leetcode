@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ayush12313065/Leetcode/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayush12313065/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush12313065/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2396-strictly-palindromic-number](https://github.com/Ayush12313065/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayush12313065/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ayush12313065/Leetcode/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Ayush12313065/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Ayush12313065/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Ayush12313065/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
