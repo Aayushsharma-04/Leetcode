@@ -6,10 +6,11 @@ class Solution {
             int digit  = x % 10;
             reversed = reversed *10 + digit;
             x = x/10;
-            if(reversed > Integer.MAX_VALUE || reversed < Integer.MIN_VALUE){
+           
+        }
+         if(reversed > Integer.MAX_VALUE || reversed < Integer.MIN_VALUE){
                 return 0;
             }
-        }
        
               return (int)reversed;
 
