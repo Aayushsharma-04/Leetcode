@@ -215,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ayush12313065/Leetcode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Ayush12313065/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Ayush12313065/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Ayush12313065/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
