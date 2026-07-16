@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ayush12313065/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush12313065/Leetcode/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayush12313065/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush12313065/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush12313065/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush12313065/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush12313065/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayush12313065/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ayush12313065/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush12313065/Leetcode/tree/master/2396-strictly-palindromic-number) |
