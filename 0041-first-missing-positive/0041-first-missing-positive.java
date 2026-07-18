@@ -6,10 +6,11 @@ class Solution {
                 set.add(num);
             }
         }
-        int missing = 1;
-        while(set.contains(missing)){
-            missing++;
+        int smallest = 1;
+        while(set.contains(smallest)){
+            smallest++;
         }
-        return missing;
+        return smallest;
+        //cyclic sort try karna h next
     }
 }
