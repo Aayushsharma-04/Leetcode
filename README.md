@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ayush12313065/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Ayush12313065/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ayush12313065/Leetcode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Ayush12313065/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayush12313065/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ayush12313065/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ayush12313065/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ayush12313065/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayush12313065/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
