@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ayush12313065/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush12313065/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/Ayush12313065/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayush12313065/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ayush12313065/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Ayush12313065/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ayush12313065/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Ayush12313065/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush12313065/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush12313065/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayush12313065/Leetcode/tree/master/0189-rotate-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush12313065/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayush12313065/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Ayush12313065/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush12313065/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ayush12313065/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush12313065/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush12313065/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Ayush12313065/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Ayush12313065/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ayush12313065/Leetcode/tree/master/0326-power-of-three) |
