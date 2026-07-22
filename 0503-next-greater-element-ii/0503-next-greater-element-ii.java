@@ -3,7 +3,7 @@ class Solution {
         int  n = nums.length;
         int[] ans = new int[n];
         Arrays.fill(ans,-1);
-        HashMap<Integer,Integer> map = new HashMap<>();
+       
         Stack<Integer> st = new Stack<>();
         for(int i =0 ;i<2*n;i++){
             int idx = i % n;
