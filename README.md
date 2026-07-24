@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
+| [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
+| [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
+| [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Divide and Conquer
 |  |
 | ------- |
