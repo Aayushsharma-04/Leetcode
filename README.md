@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12313065/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Ayush12313065/Leetcode/tree/master/1544-make-the-string-great) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12313065/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
 | [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
 | [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
 | [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
 |  |
 | ------- |
