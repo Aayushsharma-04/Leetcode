@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ayush12313065/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ayush12313065/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ayush12313065/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ayush12313065/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ayush12313065/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush12313065/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ayush12313065/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ayush12313065/Leetcode/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12313065/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush12313065/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayush12313065/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Ayush12313065/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Ayush12313065/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0343-integer-break](https://github.com/Ayush12313065/Leetcode/tree/master/0343-integer-break) |
