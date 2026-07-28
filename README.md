@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush12313065/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Ayush12313065/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush12313065/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12313065/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush12313065/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12313065/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush12313065/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ayush12313065/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayush12313065/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush12313065/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush12313065/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayush12313065/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayush12313065/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush12313065/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush12313065/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
