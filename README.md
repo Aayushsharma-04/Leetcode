@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0343-integer-break](https://github.com/Ayush12313065/Leetcode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0935-knight-dialer](https://github.com/Ayush12313065/Leetcode/tree/master/0935-knight-dialer) |
 ## Monotonic Stack
 |  |
 | ------- |
