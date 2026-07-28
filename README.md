@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12313065/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush12313065/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ayush12313065/Leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush12313065/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush12313065/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ayush12313065/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12313065/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Ayush12313065/Leetcode/tree/master/1544-make-the-string-great) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush12313065/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12313065/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush12313065/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush12313065/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
