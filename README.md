@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ayush12313065/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush12313065/Leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Ayush12313065/Leetcode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12313065/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Ayush12313065/Leetcode/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12313065/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12313065/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ayush12313065/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ayush12313065/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12313065/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Ayush12313065/Leetcode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12313065/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12313065/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayush12313065/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ayush12313065/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ayush12313065/Leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12313065/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12313065/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush12313065/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0343-integer-break](https://github.com/Ayush12313065/Leetcode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12313065/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0935-knight-dialer](https://github.com/Ayush12313065/Leetcode/tree/master/0935-knight-dialer) |
 ## Monotonic Stack
 |  |
