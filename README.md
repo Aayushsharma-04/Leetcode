@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
 | [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ayush12313065/Leetcode/tree/master/0437-path-sum-iii) |
 | [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
 |  |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
