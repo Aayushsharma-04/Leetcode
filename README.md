@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2236-root-equals-sum-of-children](https://github.com/Ayush12313065/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Ayush12313065/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2236-root-equals-sum-of-children](https://github.com/Ayush12313065/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Divide and Conquer
 |  |
 | ------- |
