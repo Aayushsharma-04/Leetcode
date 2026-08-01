@@ -385,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush12313065/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ayush12313065/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
