@@ -6,10 +6,10 @@ class Solution {
             if (s.charAt(i) == s.charAt(i - 1)) {
                 c++;
             } else {
-               max = Math.max(c,max);
                c = 1;
             }
+            max = Math.max(c,max);
         }
-        return Math.max(max,c);
+        return max;
     }
 }
