@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush12313065/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayush12313065/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayush12313065/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush12313065/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayush12313065/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Ayush12313065/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Ayush12313065/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0867-transpose-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush12313065/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
