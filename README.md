@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush12313065/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush12313065/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayush12313065/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayush12313065/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
