@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ayush12313065/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ayush12313065/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Ayush12313065/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ayush12313065/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ayush12313065/Leetcode/tree/master/0066-plus-one) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ayush12313065/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Ayush12313065/Leetcode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ayush12313065/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ayush12313065/Leetcode/tree/master/0217-contains-duplicate) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ayush12313065/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Ayush12313065/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ayush12313065/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Ayush12313065/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Ayush12313065/Leetcode/tree/master/0217-contains-duplicate) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayush12313065/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush12313065/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush12313065/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Ayush12313065/Leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Ayush12313065/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush12313065/Leetcode/tree/master/0151-reverse-words-in-a-string) |
