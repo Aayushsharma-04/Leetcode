@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ayush12313065/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush12313065/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayush12313065/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Ayush12313065/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayush12313065/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ayush12313065/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush12313065/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush12313065/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayush12313065/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush12313065/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ayush12313065/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ayush12313065/Leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush12313065/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayush12313065/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12313065/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Ayush12313065/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12313065/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
