@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ayush12313065/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ayush12313065/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ayush12313065/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ayush12313065/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Ayush12313065/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ayush12313065/Leetcode/tree/master/0078-subsets) |
