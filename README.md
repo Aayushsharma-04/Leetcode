@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayush12313065/Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayush12313065/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayush12313065/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3163-string-compression-iii](https://github.com/Ayush12313065/Leetcode/tree/master/3163-string-compression-iii) |
 ## Stack
 |  |
 | ------- |
