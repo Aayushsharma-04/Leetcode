@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Ayush12313065/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Ayush12313065/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ayush12313065/Leetcode/tree/master/0595-big-countries) |
+| [1251-average-selling-price](https://github.com/Ayush12313065/Leetcode/tree/master/1251-average-selling-price) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Ayush12313065/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ayush12313065/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Ayush12313065/Leetcode/tree/master/1683-invalid-tweets) |
